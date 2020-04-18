@@ -8,9 +8,9 @@
 
 |||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|
+|**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|**Typescript**|**Jquery**|**Node.js**|
 |**React**|**Redux**|**Next.js**|**Github**|**Git**|**Bitbucket**|
-|**Sql**|**Mongodb**|**MySql**|**Php**|**Codigniter**|**Sqlite**|
+|**Sql**|**Mongodb**|**MySql**|**Php**|**Codigniter**|**Sqlite**|**Firebase**|
 
 ***
 
