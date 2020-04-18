@@ -41,12 +41,12 @@ Know how to use Photoshop, Illustrator, Figma, Xd and After Effects...
 
 ## Other Certifications
 
--- FreeCodeCamp ( Responsive Web Design )
--- FreeCodeCamp ( Javascript Algorithms and Data Structures )
--- FreeCodeCamp ( Front End Libraries)
--- FreeCodeCamp ( Data Visualization )
--- FreeCodeCamp ( APIs and Microservices )
--- SoloLearn ( HTML , CSS , Javascript , Python )
+-- FreeCodeCamp ( Responsive Web Design )  
+-- FreeCodeCamp ( Javascript Algorithms and Data Structures )  
+-- FreeCodeCamp ( Front End Libraries)  
+-- FreeCodeCamp ( Data Visualization )  
+-- FreeCodeCamp ( APIs and Microservices )  
+-- SoloLearn ( HTML , CSS , Javascript , Python )  
 
 
 #### Contact
