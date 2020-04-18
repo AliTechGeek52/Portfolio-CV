@@ -9,8 +9,8 @@
 |||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|
-|**React**|**Redux**|**CodeIgniter**|
-|**Github**|**SQL**|**PHP**|
+|**React**|**Redux**|**Next.js**|**Github**|**Git**|**Bitbucket**|
+|**Sql**|**Mongodb**|**MySql**|**Php**|**Codigniter**|**Sqlite**|
 
 ***
 
@@ -22,6 +22,8 @@
 
 1. **React-Weather: :** [https://alitechgeek52.github.io/react-weather/](https://alitechgeek52.github.io/react-weather/)
 
+## PROFESSIONAL TRAINING “Web Development Certification”, Conducted by CIRCLE Authorized by 
+## Usman Institute of Engineering & Technology 22 March 2019 – November 2019
 
 
 #### Contact
