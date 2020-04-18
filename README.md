@@ -13,6 +13,10 @@
 |**Sql**|**Mongodb**|**MySql**|**Php**|**Codigniter**|**Sqlite**|
 |**Firebase**|**Python**|
 
+## Other Skills
+
+Know how to use Photoshop,Illustrator,Figma,Xd and After Effects...
+
 ***
 
 ## Projects
@@ -23,8 +27,7 @@
 
 1. **React-Weather: :** [https://alitechgeek52.github.io/react-weather/](https://alitechgeek52.github.io/react-weather/)
 
-## PROFESSIONAL TRAINING “Web Development Certification”, Conducted by CIRCLE Authorized by 
-## Usman Institute of Engineering & Technology 22 March 2019 – November 2019
+## PROFESSIONAL TRAINING “Web Development Certification”, Conducted by CIRCLE Authorized by Usman Institute of Engineering & Technology 22 March 2019 – November 2019
 
 
 #### Contact
